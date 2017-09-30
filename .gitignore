@@ -4,6 +4,9 @@
 # composer vendor dir
 /vendor
 
+# tests
+/tests/acceptance.suite.yml
+
 # composer itself is not needed
 composer.phar
 composer.lock
