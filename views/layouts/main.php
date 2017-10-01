@@ -1,10 +1,11 @@
 <!doctype html>
-<html lang="ru">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>Видео-школа</title>
+    <title>Video School</title>
 </head>
 <body>
+    <h1>Video School</h1>
     <?= $content ?>
 </body>
 </html>
